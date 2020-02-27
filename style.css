@@ -1,0 +1,9 @@
+/*
+Theme Name: GeneratePress-Child
+Version: 1.0
+Description: A child theme of GeneratePress
+Author: Nous
+Template: generatepress
+*/
+
+@import url("../generatepress/style.css");
